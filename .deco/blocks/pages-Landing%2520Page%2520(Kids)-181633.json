@@ -1,5 +1,5 @@
 {
-  "name": "Landing Page (Kids)",
+  "name": "KidS",
   "path": "/kids",
   "sections": [
     {
@@ -22,9 +22,20 @@
       "section": {
         "__resolveType": "site/sections/Product/SearchResult.tsx",
         "page": {
-          "__resolveType": "shopify/loaders/ProductListingPage.ts",
-          "count": 12,
-          "query": "kids"
+          "__resolveType": "commerce/loaders/product/extensions/listingPage.ts",
+          "data": {
+            "@type": "ProductListingPage",
+            "breadcrumb": {
+              "@type": "BreadcrumbList"
+            },
+            "filters": [],
+            "products": [],
+            "pageInfo": {
+              "pageTypes": []
+            },
+            "sortOptions": []
+          },
+          "extensions": []
         },
         "layout": {
           "columns": {

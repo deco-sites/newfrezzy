@@ -23,9 +23,9 @@
         "__resolveType": "site/sections/Product/SearchResult.tsx",
         "page": {
           "__resolveType": "shopify/loaders/ProductListingPage.ts",
-          "count": 12,
-          "collectionName": "Home & Living",
-          "query": "home & living"
+          "count": 7,
+          "collectionName": "Casa e Vida",
+          "query": "Casa e Vida"
         },
         "layout": {
           "columns": {
@@ -35,7 +35,8 @@
           "variant": "aside",
           "pagination": "show-more"
         },
-        "startingPage": 1
+        "startingPage": 1,
+        "partial": "hideMore"
       }
     },
     {

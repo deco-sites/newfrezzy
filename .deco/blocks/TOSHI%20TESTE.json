@@ -1,0 +1,29 @@
+{
+  "__resolveType": "commerce/loaders/product/productListingPage.ts",
+  "data": {
+    "@type": "hate",
+    "breadcrumb": {
+      "@type": "BreadcrumbList"
+    },
+    "filters": [],
+    "products": [],
+    "pageInfo": {
+      "pageTypes": [
+        "Department"
+      ],
+      "previousPage": null,
+      "records": null,
+      "recordPerPage": null,
+      "currentPage": 0
+    },
+    "sortOptions": [],
+    "seo": {
+      "title": "vive are to",
+      "canonical": "new a s fo tor ea vi eu alan",
+      "description": "bera cq it"
+    }
+  },
+  "extensions": [
+    {}
+  ]
+}
