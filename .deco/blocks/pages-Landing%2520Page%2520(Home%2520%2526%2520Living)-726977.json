@@ -42,6 +42,19 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Animation/Animation.tsx",
+        "animationType": "zoom-in",
+        "duration": "SELECT",
+        "children": {
+          "section": {
+            "component": "SELECT"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
       }
     },
